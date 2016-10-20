@@ -1,6 +1,6 @@
 {
-  "short_name": "Shopping",
-  "name": "O Shopping",
+  "short_name": "Lista Comercial",
+  "name": "Lista Comercial",
   "icons": [
     {
       "src": "img/icon.png",
@@ -11,6 +11,6 @@
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#F77F00",
-  "background_color": "#FFB400"
+  "theme_color": "#7fc241",
+  "background_color": "#004b80"
 }
